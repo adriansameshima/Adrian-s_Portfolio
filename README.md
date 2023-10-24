@@ -1,5 +1,3 @@
-# Adrian's Portfolio
-
 ## [Project 1: Kings County House Sales Dashboard](https://public.tableau.com/views/KingCountyHouseSalesDashboard_16976699907880/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 *This project is a Tableau Dashboard I created in order to organize and show House sales in King's County which is located in Washington State
