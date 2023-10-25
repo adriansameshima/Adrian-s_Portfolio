@@ -8,3 +8,6 @@
 
 *My goal is for the user to be able to have a better understanding of the sales of houses that happened in King's County by playing around with the dashboard and changing some attributes and filters
 
+## Project 2: Coffee Dashboard 
+
+*Download the Excel dashboard above 
