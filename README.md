@@ -10,4 +10,6 @@
 
 ## Project 2: Coffee Dashboard
 
-*Download the Excel file
+*Download the Excel file "CoffeeDashboard.xlsx"
+
+*I cleaned and created a Dashboard using Excel for a coffee shop sales data using Excel
